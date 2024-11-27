@@ -29,7 +29,6 @@
         "url": "https://github.com/MetaMask/react-native-aes-crypto-forked.git"
     },
     "scripts": {
-        
     },
     "publishConfig": {
       "access": "public",
